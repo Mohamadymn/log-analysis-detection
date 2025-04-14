@@ -1,0 +1,17 @@
+Suspicious Login Activity Report
+Generated: 2025-04-14 16:26:29.944056
+
+IPs with 5 or more failed login attempts:
+52.80.34.196: 5 failed attempts | Avg time between attempts: 2901.00 seconds
+112.95.230.3: 26 failed attempts | Avg time between attempts: 2.36 seconds
+123.235.32.19: 7 failed attempts | Avg time between attempts: 19.33 seconds
+5.188.10.180: 18 failed attempts | Avg time between attempts: 6.41 seconds
+185.190.58.151: 17 failed attempts | Avg time between attempts: 18.81 seconds
+103.99.0.122: 46 failed attempts | Avg time between attempts: 151.20 seconds
+187.141.143.180: 80 failed attempts | Avg time between attempts: 5.49 seconds
+60.2.12.12: 5 failed attempts | Avg time between attempts: 7.00 seconds
+119.4.203.64: 6 failed attempts | Avg time between attempts: 2.40 seconds
+183.62.140.253: 286 failed attempts | Avg time between attempts: 2.15 seconds
+
+Suspicious IPs That Later Logged In Successfully:
+No suspicious IPs were later successful.

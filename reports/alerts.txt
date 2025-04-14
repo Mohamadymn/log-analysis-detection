@@ -1,0 +1,12 @@
+ALERTS LOG - 2025-04-14 16:23:11.357371
+
+[ALERT] Brute-force risk detected from IP 52.80.34.196 with 5 failed login attempts.
+[ALERT] Brute-force risk detected from IP 112.95.230.3 with 26 failed login attempts.
+[ALERT] Brute-force risk detected from IP 123.235.32.19 with 7 failed login attempts.
+[ALERT] Brute-force risk detected from IP 5.188.10.180 with 18 failed login attempts.
+[ALERT] Brute-force risk detected from IP 185.190.58.151 with 17 failed login attempts.
+[ALERT] Brute-force risk detected from IP 103.99.0.122 with 46 failed login attempts.
+[ALERT] Brute-force risk detected from IP 187.141.143.180 with 80 failed login attempts.
+[ALERT] Brute-force risk detected from IP 60.2.12.12 with 5 failed login attempts.
+[ALERT] Brute-force risk detected from IP 119.4.203.64 with 6 failed login attempts.
+[ALERT] Brute-force risk detected from IP 183.62.140.253 with 286 failed login attempts.
