@@ -35,7 +35,10 @@ with open(log_file_path, 'r') as file:
             successful_ips.add(ip)
 
 # Identify suspicious IPs (5 or more failures)
-suspicious_ips = [(ip, failures_by_ip[ip]) for ip in failures_by_ip if failures_by_ip[ip] >= suspicious_threshold]
+suspicious_ips = sorted([(ip, failures_by_ip[ip]) for ip in failures_by_ip if failures_by_ip[ip] >= suspicious_threshold], 
+	key=lambda x: x[1],
+	reverse=True
+	)
 
 # Write report
 with open(report_file_path, 'w') as report:
