@@ -1,17 +1,87 @@
 Suspicious Login Activity Report
-Generated: 2025-04-16 07:24:00.227044
+Generated: 2025-04-16 07:37:55.494615
 
-IPs with 5 or more failed login attempts:
-183.62.140.253: 286 failed attempts | Avg time between attempts: 2.15 seconds
-187.141.143.180: 80 failed attempts | Avg time between attempts: 5.49 seconds
-103.99.0.122: 46 failed attempts | Avg time between attempts: 151.20 seconds
-112.95.230.3: 26 failed attempts | Avg time between attempts: 2.36 seconds
-5.188.10.180: 18 failed attempts | Avg time between attempts: 6.41 seconds
-185.190.58.151: 17 failed attempts | Avg time between attempts: 18.81 seconds
-123.235.32.19: 7 failed attempts | Avg time between attempts: 19.33 seconds
-119.4.203.64: 6 failed attempts | Avg time between attempts: 2.40 seconds
-52.80.34.196: 5 failed attempts | Avg time between attempts: 2901.00 seconds
-60.2.12.12: 5 failed attempts | Avg time between attempts: 7.00 seconds
+Total suspicious IPs (>= 5 failures): 10
+Suspicious IPs that later succeeded: 0
+Most targeted username: root (370 attempts)
+
+---
+
+Suspicious IPs Details:
+183.62.140.253: 286 failures | Avg time: 2.15s | Time Range: 2025-12-10 10:54:29 to 2025-12-10 11:04:43
+187.141.143.180: 80 failures | Avg time: 5.49s | Time Range: 2025-12-10 09:12:48 to 2025-12-10 09:20:02
+103.99.0.122: 46 failures | Avg time: 151.20s | Time Range: 2025-12-10 09:11:21 to 2025-12-10 11:04:45
+112.95.230.3: 26 failures | Avg time: 2.36s | Time Range: 2025-12-10 07:27:52 to 2025-12-10 07:28:51
+5.188.10.180: 17 failures | Avg time: 6.19s | Time Range: 2025-12-10 08:24:45 to 2025-12-10 08:26:24
+185.190.58.151: 17 failures | Avg time: 18.81s | Time Range: 2025-12-10 09:07:58 to 2025-12-10 09:12:59
+123.235.32.19: 7 failures | Avg time: 19.33s | Time Range: 2025-12-10 07:32:27 to 2025-12-10 07:34:23
+119.4.203.64: 6 failures | Avg time: 2.40s | Time Range: 2025-12-10 10:14:01 to 2025-12-10 10:14:13
+52.80.34.196: 5 failures | Avg time: 2901.00s | Time Range: 2025-12-10 07:07:45 to 2025-12-10 10:21:09
+60.2.12.12: 5 failures | Avg time: 7.00s | Time Range: 2025-12-10 10:04:54 to 2025-12-10 10:05:22
 
 Suspicious IPs That Later Logged In Successfully:
 No suspicious IPs were later successful.
+
+Most Targeted Usernames:
+root: 370
+admin: 44
+support: 6
+oracle: 6
+uucp: 5
+test: 5
+user: 4
+inspur: 3
+1234: 3
+ftp: 3
+guest: 3
+matlab: 3
+git: 3
+webmaster: 2
+default: 2
+123: 2
+anonymous: 2
+ubnt: 2
+sshd: 2
+cisco: 2
+ftpuser: 2
+ubuntu: 2
+deploy: 2
+mysql: 2
+magnos: 2
+test9: 1
+chen: 1
+pgadmin: 1
+utsims: 1
+0: 1
+operator: 1
+monitor: 1
+pi: 1
+PlcmSpIp: 1
+Management: 1
+api: 1
+eoor: 1
+butter: 1
+redhat: 1
+postgres: 1
+nagios: 1
+www: 1
+abc: 1
+ted: 1
+vnc: 1
+ghost: 1
+oralce: 1
+nagios1: 1
+postgres1: 1
+test1: 1
+test2: 1
+bssh: 1
+ingrid: 1
+jay: 1
+cyrus: 1
+FILTER: 1
+zhangyan: 1
+dff: 1
+cheng: 1
+boot: 1
+123456: 1
+sandeep: 1
